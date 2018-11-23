@@ -74,3 +74,9 @@ git push -u origin master
 #之后的每次提交
 git push origin master即可
 
+
+从github上克隆本地库
+git clone git@github.com:Iamyangshu/algorithms.git
+#在git上操作时，先跳转到仓库所在的文件夹
+然后再进行各种clone,push等操作
+
