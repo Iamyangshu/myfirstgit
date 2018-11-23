@@ -79,4 +79,5 @@ git push origin master即可
 git clone git@github.com:Iamyangshu/algorithms.git
 #在git上操作时，先跳转到仓库所在的文件夹
 然后再进行各种clone,push等操作
-
+#学习git廖雪峰
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
