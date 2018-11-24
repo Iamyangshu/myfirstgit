@@ -65,6 +65,9 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Iamyangshu/myfirstgit.git
 git push -u origin master
+当push不成功时，尝试
+git pull --rebase origin master
+
 
 
 ************88
